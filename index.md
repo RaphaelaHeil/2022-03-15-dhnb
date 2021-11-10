@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/RaphaelaHeil/2022-03-15-dhnb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+layout: home
+---
+Welcome to the workshop **"Introduction to Programming with Python and Version Control Using git"** as part of the _6th Digital Humanities in the Nordic and Baltic Countries Conference 2022_.    
+This workshop is primarily aimed at researchers and students from the humanities and does not require any prior programming experience. However, attendees from all kinds of backgrounds and levels of prior knowledge are welcome. We can accommodate 25 learners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## When & where
+- 15th March 2022, full day
+- online
 
-### Markdown
+## Registration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Information regarding the registration will be provided on this site in the coming weeks. 
 
-```markdown
-Syntax highlighted code block
+**Please note that a registration at the main conference is required in order to be able to register for this workshop!**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaphaelaHeil/2022-03-15-dhnb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   
+## Code of Conduct
