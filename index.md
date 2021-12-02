@@ -9,12 +9,14 @@ This tutorial is primarily aimed at researchers and students from the humanities
 
 ## When? 
 15th March 2022, full day (9:00 - 17:00 CET)
-
+   
 ## Where? 
 online, the zoom link will be provided to registered participants in due time
 
 ## Registration
 
-Please use this form **link-TODO** in order to register for this tutorial. **Please note that a registration at the main conference is required in order to be able to register for this workshop!**
+Please use this form **link-TODO** in order to register for this tutorial. 
+
+**Please note that a registration at the main conference is required in order to be able to register for this workshop!**
 
    

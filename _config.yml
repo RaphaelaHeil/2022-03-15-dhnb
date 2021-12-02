@@ -21,8 +21,8 @@
 title: "Introduction to Text and Image Analysis Using Python"
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Workshop page for "Introduction to Text and Image Analysis Using Python" at the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022)
-baseurl: "" # the subpath of your site, e.g. /blog
+  Workshop page for "Introduction to Programming with Python and Version Control Using git" at the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022)
+baseurl: "/2022-03-15-dhnb" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RaphaelaHeil
 
