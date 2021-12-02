@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "DHNB 2022 Workshop: Python and git"
+title: "Introduction to Text and Image Analysis Using Python"
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Workshop page for "Introduction to Programming with Python and Version Control Using git" at the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022)
+  Workshop page for "Introduction to Text and Image Analysis Using Python" at the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RaphaelaHeil
