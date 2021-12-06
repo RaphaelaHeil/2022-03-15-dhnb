@@ -13,6 +13,7 @@ Overall, this tutorial aims to provide learners with the tools to work with exis
 
 - **Diana Iusan**, Uppsala Multidisciplinary Centre for Advanced Computational Science (UPPMAX), Sweden
 - **Kristoffer L. Nielbo**, Center for Humanities Computing Aarhus, Denmark
+- **Nazeefa Fatima**, ELIXIR Norway, University of Oslo, Norway
 - **Raphaela Heil**, Centre for Image Analysis, Uppsala, Sweden
 
 And many others, from institutions across the Nordic and Baltic Countries! 
