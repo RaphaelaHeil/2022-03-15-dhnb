@@ -16,5 +16,6 @@ Overall, this tutorial aims to provide learners with the tools to work with exis
 - **Nazeefa Fatima**, ELIXIR Norway, University of Oslo, Norway
 - **Raphaela Heil**, Centre for Image Analysis, Uppsala, Sweden
 - **Radovan Bast**, UiT The Arctic University of Norway, Tromsø, Norway
+- **Henrik Askjer**, University of Bergen Library, Norway
 
 And many others, from institutions across the Nordic and Baltic Countries! 
