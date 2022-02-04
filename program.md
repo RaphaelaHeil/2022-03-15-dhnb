@@ -4,4 +4,11 @@ title: Program
 permalink: /program/
 ---
 
-The detailed schedule will be published here in the coming weeks. The program itself entails an introduction to Jupyter notebooks, followed by a number topics from text and image analysis, which will be demonstrated and discussed via notebooks. 
+|Start Time|Topic|Instructor(s)|
+|---|---|---|
+|9:00|Introduction to Jupyter (based on [this CodeRefinery lesson](https://coderefinery.github.io/jupyter/))|Radovan, Diana|
+|10:00|Analyzing Documents with TF-IDF (based on [this Programming Historian lesson](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf))|Henrik|
+|11:00|Clustering-based Analysis of Handwritten Characters (lesson material under development)|Raphaela|
+
+_Several coffee breaks will be held over the course of the morning._ 
+
