@@ -8,12 +8,15 @@ Welcome to the tutorial **"Introduction to Text and Image Analysis Using Python"
 This tutorial is primarily aimed at researchers and students from the humanities and does not require any prior programming experience. Attendees from all kinds of backgrounds and levels of prior knowledge are welcome! 
 
 
-
 ## When? 
-15th March 2022, full day (9:00 - 12:00 CET)
-   
+
+15th March 2022, 9:00 - 12:00 CET
+
+
 ## Where? 
-online, the zoom link will be provided to registered participants in due time
+
+Online, the Zoom link will be provided to registered participants in due time.
+
 
 ## Registration
 
@@ -21,5 +24,7 @@ Please use this form [https://forms.gle/vb166dD8shGCGLv87](https://forms.gle/vb1
 
 *Please note that a registration at the main conference is required in order to be able to register for this workshop!*
 
-## Questions? 
+
+## Questions?
+
 For any questions, please contact Raphaela via: [raphaela.heil@it.uu.se](mailto:raphaela.heil@it.uu.se)
