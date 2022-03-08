@@ -10,5 +10,4 @@ permalink: /program/
 |10:00|Analyzing Documents with TF-IDF (based on [this Programming Historian lesson](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf))|Henrik|
 |11:00|Clustering-based Analysis of Handwritten Characters (lesson material under development)|Raphaela|
 
-_Several coffee breaks will be held over the course of the morning._ 
-
+_Several breaks will be held over the course of the morning._ 
