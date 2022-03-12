@@ -20,7 +20,8 @@ Online, the Zoom link will be provided to registered participants in due time.
 
 ## Registration
 
-Please use this form [https://forms.gle/vb166dD8shGCGLv87](https://forms.gle/vb166dD8shGCGLv87) in order to register for this tutorial. 
+We currently do not have any free spots available any more. Please email Raphaela if you would like to be placed on the waiting list. 
+
 
 *Please note that a registration at the main conference is required in order to be able to register for this workshop!*
 
