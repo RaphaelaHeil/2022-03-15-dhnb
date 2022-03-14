@@ -5,3 +5,5 @@ _site/
 text-analysis/lesson-files
 text-analysis/__MACOSX
 text-analysis/tf_idf_output
+__pycache__
+.ipynb_checkpoints
